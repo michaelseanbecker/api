@@ -1,0 +1,4 @@
+collections:
+  - output_key: "books"
+    inputs:
+      - path: "collections/books"
