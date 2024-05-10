@@ -6,18 +6,6 @@
   "values": [
     {
       "data": {
-        "dateFinished": "2019-11-10",
-        "isbn": 9783753145136,
-        "tags": [
-          "tech"
-        ],
-        "thumbnail": "https://books.google.com/books/content?id=PEpoEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api&w=512",
-        "title": "Nineteen Eighty-Four"
-      },
-      "url": "books/nineteen-eighty-four.json"
-    },
-    {
-      "data": {
         "dateTime": "2024-05-10T04:52:23.000000Z",
         "dateWatched": "2024-05-09",
         "link": "https://trakt.tv/episodes/6454006",
